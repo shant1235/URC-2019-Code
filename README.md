@@ -1,2 +1,2 @@
 # URC-2019
-This branch contains arduino programs currently in development.
+This branch contains arduino and Python programs currently in development.
